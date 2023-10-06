@@ -62,62 +62,13 @@
 
 
 
-						  <p>抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防上当受骗 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活</p>
+						  抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防上当受骗 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活
 	
-						  <p>版权所有 本游戏由【玄武火龙】独家开发运营www.xuanwu.vip</p>
+						  版权所有 本游戏由【玄武火龙】独家开发运营www.xuanwu.vip
 
 					
 
 
 <div id="Floatingbar" class="change" style="margin-right: 0px;">
 
-	<div class="ewm">
-
-		<img src="https://img-blog.csdnimg.cn/ba08f7cfc89e4b2d84eff5ee62e062a5.png" alt="description ">
-
-		玄武火龙Xuanwu.Vip
-
-	</div>
-
-	<ul>
-
-		<li><a href="http://www.xuanwu.vip/payurls.html" class="btn_kefu" onClick="location.href='#'" target="_blank">游戏充值</a></li>
-
-		<li><a href="https://xuanwuvip.lanzoul.com/ihBZL18q6eri" class="btn_kefu" onClick="location.href='#'" target="_blank">游戏下载</a></li>
-
-        <li><a id="MusicToggleButton" onClick="ToggleMusic()" target="_blank">点击暂停音乐</a></li>
-
-
-
-	</ul>
-
 	
-
-	<a href="index.html#" class="btn_backtop">TOP </a>
-
-	<span class="btn change"></span>
-
-</div>
-
-
-
-	<audio autoplay="" preload="auto" id="Music">
-
-	<!-- 音乐替换处 -->
-
-		<source src="http://xuanwu.vip/511ps.mp3" type="audio/mpeg">
-
-	</audio>
-
-
-
-
-
-</div>
-
- <script src="http://xuanwu.vip/Scripts/web.js"></script>
-
-</body>
-
-</html>
-
