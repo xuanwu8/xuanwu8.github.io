@@ -60,44 +60,13 @@
 
 
 
-	<div align="center">
 
-	    <div id="layer">
-
-		
-
-			<div id="Layer4">
-
-				<div id="Layer5">
-
-					<div id="layer2">
-
-						<div align="left" class="STYLE2">
 
 						  <p>抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防上当受骗 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活</p>
+	
+						  <p>版权所有 本游戏由【玄武火龙】独家开发运营www.xuanwu.vip</p>
 
-						  <p>&nbsp;</p>
-
-						  <p>All rights reserved. 版权所有 本游戏由【玄武火龙】独家开发运营www.xuanwu.vip</p>
-
-						  <p>&nbsp;</p>
-
-                  
-
-						</div>
-
-					</div>
-
-				</div>
-
-			</div>
-
-	    </div>
-
-	</div>
-
- </div>
-
+					
 
 
 <div id="Floatingbar" class="change" style="margin-right: 0px;">
